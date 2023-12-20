@@ -1,6 +1,6 @@
 Name:		texlive-scratch
-Version:	50073
-Release:	2
+Version:	66655
+Release:	1
 Summary:	Draw programs like "scratch"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scratch
