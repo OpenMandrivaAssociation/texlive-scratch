@@ -3,7 +3,7 @@ Version:	66655
 Release:	1
 Summary:	Draw programs like "scratch"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scratch
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scratch
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scratch.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scratch.doc.r%{version}.tar.xz
